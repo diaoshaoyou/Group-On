@@ -9,4 +9,4 @@ groupon_hsnet/train.py \
                   --logpath "" \
                   --load "" \
                   --group_start 10 \
-                  --N_q 1
+                  --N_q 2
