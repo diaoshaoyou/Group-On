@@ -1,5 +1,5 @@
-# Group-On: Boosting One-Shot Segmentation with  Supportive Query
-Group-On is , as introduced in [ICME 2025 oral paper](https://arxiv.org/abs/2404.11871). Please refer to the [arxiv version](https://arxiv.org/abs/2404.11871) for more technical details.
+# Group-On: Boosting One-Shot Segmentation with  Supportive Query (ICME 2025 oral)
+Group-On is a novel and effective approach for ONE-shot semantic segmentation, which packs multiple query images in batches for the benefit of mutual knowledge support within the same category. Please refer to [ICME 2025 oral paper](https://arxiv.org/abs/2404.11871) and the [arxiv version](https://arxiv.org/abs/2404.11871) for more technical details.
 
 <img src="assets/framework.png" alt="framework" width="850" height="300"> 
 Figure 1: Illustrating GROUP-ON in the one-shot setting. 
