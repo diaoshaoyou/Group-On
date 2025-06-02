@@ -1,0 +1,1 @@
+This directory contains resnet50 and resnet101 backbones.

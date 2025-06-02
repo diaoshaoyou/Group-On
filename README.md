@@ -14,13 +14,7 @@ cuda=11.7
 ```
 
 ## Preparing Few-Shot Segmentation Datasets
-Our datasets are in the [datasets](https://github.com/diaoshaoyou/Group-On/blob/main/datasets) and here is the directory structure:
-datasets/
-├── VOC2012/   
-├── COCO2014/           
-└── FSS-1000/    
-
-Dataset preparation follows [HSNet](https://github.com/baiboat/HSNet):
+Our datasets are in the [datasets](https://github.com/diaoshaoyou/Group-On/blob/main/datasets) and their preparation follows [HSNet](https://github.com/baiboat/HSNet):
 
 > #### 1. PASCAL-5<sup>i</sup>
 > Download PASCAL VOC2012 devkit (train/val data):

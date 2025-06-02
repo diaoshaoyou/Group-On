@@ -1,0 +1,1 @@
+This directory contains COCO-20<sup>i</sup> dataset.

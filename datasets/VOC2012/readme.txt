@@ -1,0 +1,1 @@
+This directory contains PASCAL-5<sup>i</sup> dataset.
