@@ -45,14 +45,10 @@ This codebase is released under the Apache License 2.0 as in the LICENSE file.
 ## Citation 
 If you find this research work interesting and helpful, please cite our paper:
 ```
-@inproceedings{zhou2025groupon,
-  title={Group-On: Boosting One-Shot Segmentation with
- Supportive Query},
-  author={Zhou, Hanjing and Yin, Mingze and Chen, Danny and Wu, Jian and Chen, Jintai},
-  booktitle={International Conference on Multimedia and Expo},
-  volume={0},
-  number={0},
-  pages={0--0},
-  year={2025}
+@article{zhou2024group,
+  title = {{Group-On}: Boosting one-shot segmentation with supportive query},
+  author = {Zhou, Hanjing and Yin, Mingze and Chen, Danny and Wu, Jian and Chen, JinTai},
+  journal = {arXiv preprint arXiv:2404.11871},
+  year = {2024}
 }
 ```
